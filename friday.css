@@ -1,0 +1,19 @@
+/* basic styles for the profile card*/
+body{
+    font-family:Arial, sans-serif;
+    display:flex;
+    justify-content:center;
+    align-items:right;
+height:100vh;
+background-color:#f0f0f0;
+
+}
+
+.profile-card{
+    background-color:darkslategrey;
+border-top-style: var(rgb(64, 117, 117));
+box-shadow:0 4px 8px rgba(151, 76, 76, 0.1);
+width:300px;
+padding:20px;
+text-align:center;
+}
