@@ -4,12 +4,6 @@
     background-color: rgb(150, 180, 180);
     box-decoration-break: slice;
     line-height: 2pc;
-    
-
+    width: -50px;
 }
-.profile-card{
-width: -500px;
-box-sizing: border-box;
 
-
-}
