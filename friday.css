@@ -1,0 +1,9 @@
+/* basic styles for the profile card*/
+*{
+    font-family:Arial, sans-serif;
+    background-color: rgb(150, 180, 180);
+    box-decoration-break: slice;
+    line-height: 2pc;
+    width: -50px;
+}
+
